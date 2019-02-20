@@ -144,8 +144,6 @@
         -webkit-background-size: cover;
         mask-image: url(../img/chevron-thin-right.svg); 
         background-size: cover;
-
-
     }
 }
 
@@ -155,10 +153,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-
-    &__count {
-        
-    }
 
     &__friends {
         display: flex;
